@@ -43,10 +43,10 @@
     "babel-preset-stage-0": "^6.22.0",
     "concurrently": "^3.1.0",
     "cross-env": "^5.0.0",
-    "electron": "^1.4.15",
+    "electron": "^45.2.1",
     "express": "^4.14.0",
     "webpack": "^2.5.1",
-    "webpack-dev-middleware": "^1.6.1",
+    "webpack-dev-middleware": "^8.6.0",
     "webpack-hot-middleware": "^2.12.1"
   },
   "dependencies": {
